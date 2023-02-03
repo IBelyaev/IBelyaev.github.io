@@ -1,13 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f97a117.css",
-    "main.js": "/static/js/main.c9812d41.js",
+    "main.css": "/static/css/main.d816cee9.css",
+    "main.js": "/static/js/main.076dc32e.js",
+    "static/js/787.3168ff86.chunk.js": "/static/js/787.3168ff86.chunk.js",
+    "static/media/open-sans.ttf": "/static/media/open-sans.ceb05254cedfa895b512.ttf",
+    "static/media/fira-sans.ttf": "/static/media/fira-sans.d11d9e14e00fc1a96751.ttf",
+    "static/media/roboto.ttf": "/static/media/roboto.fc2b5060f7accec5cf74.ttf",
+    "static/media/letter-spacing.svg": "/static/media/letter-spacing.898233ccb1e4949fd69d7f603ab98dbf.svg",
     "index.html": "/index.html",
-    "main.2f97a117.css.map": "/static/css/main.2f97a117.css.map",
-    "main.c9812d41.js.map": "/static/js/main.c9812d41.js.map"
+    "static/media/line-height.svg": "/static/media/line-height.89e9d1c3c87c32c705f2abdc0441a164.svg",
+    "static/media/align-right.svg": "/static/media/align-right.3a12dd22693ba2f3dc216dc918df5e70.svg",
+    "static/media/align-center.svg": "/static/media/align-center.33a3186e3a5918eba32b00feb60579f0.svg",
+    "static/media/align-justify.svg": "/static/media/align-justify.be72462a20333e254bdda0d9b3106fd5.svg",
+    "static/media/align-left.svg": "/static/media/align-left.7d143a4faf3f5b93b6165db3552ac3b1.svg",
+    "static/media/align-right-active.svg": "/static/media/align-right-active.57735772ac2bc38ea96cbf1ad942bd8d.svg",
+    "static/media/align-center-active.svg": "/static/media/align-center-active.736c9cee1b27b7ad2742b6e8459a151a.svg",
+    "static/media/align-justify-active.svg": "/static/media/align-justify-active.7bd5a2e68d054ee53b10103c5f859705.svg",
+    "static/media/align-left-active.svg": "/static/media/align-left-active.3d2f0faedd23d2f9c022b6e29972f9f6.svg",
+    "static/media/font-size.svg": "/static/media/font-size.40be110e5472d3b7c1c6e91e3824c4a9.svg",
+    "static/media/arrow.svg": "/static/media/arrow.892a00a95e545bb8ec820a37d8195fd1.svg",
+    "main.d816cee9.css.map": "/static/css/main.d816cee9.css.map",
+    "main.076dc32e.js.map": "/static/js/main.076dc32e.js.map",
+    "787.3168ff86.chunk.js.map": "/static/js/787.3168ff86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f97a117.css",
-    "static/js/main.c9812d41.js"
+    "static/css/main.d816cee9.css",
+    "static/js/main.076dc32e.js"
   ]
 }
